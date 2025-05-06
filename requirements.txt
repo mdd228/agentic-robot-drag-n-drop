@@ -1,0 +1,4 @@
+# No external dependencies required for this basic implementation
+# Future versions might require additional packages 
+flask==3.0.0
+flask-cors==4.0.0 
